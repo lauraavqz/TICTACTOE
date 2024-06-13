@@ -1,0 +1,5 @@
+Change Log 
+05/22/2024-Made the Number Guessing Game & created the Readme file
+05/23/2024-Looked at videos to create a repository 
+05/27/2024-Worked on creating the repository,connecting it to my remote repository, pull the changes into the master branch, make changes to the changelog.txt in my local repository, commit the changes anf push them to the remote repository
+05/28/2024-I merged NewChanges to the Main to add a Play Again feature. I also learned how to use revert.
